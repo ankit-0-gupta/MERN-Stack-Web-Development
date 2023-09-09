@@ -1,0 +1,5 @@
+Question 1 - Can we use Header tag inside Footer
+Ans : No
+
+Question 2 - Can we use Multiple Header tag
+Ans : Note: You can have several <header> elements in one HTML document. 
